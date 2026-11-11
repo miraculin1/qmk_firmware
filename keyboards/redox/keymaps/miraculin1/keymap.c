@@ -76,7 +76,7 @@ LCTL_T(KC_BSLS),MO(2) ,KC_DEL,  KC_LALT ,     KC_LGUI ,    KC_SPC  ,KC_BSPC ,   
   //├────────┼────────┼────────┼────────┼────────┼────────┼────────┼────────┐       ┌────────┼────────┼────────┼────────┼────────┼────────┼────────┼────────┤
      XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,_______ ,_______ ,        _______ ,XXXXXXX ,XXXXXXX ,KC_MUTE ,KC_MPRV ,KC_MNXT ,KC_PSCR ,XXXXXXX ,
   //├────────┼────────┼────────┼────────┼────┬───┴────┬───┼────────┼────────┤       ├────────┼────────┼───┬────┴───┬────┼────────┼────────┼────────┼────────┤
-     XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,     MS_BTN1 ,    MS_BTN2 ,_______ ,        _______ ,_______ ,    XXXXXXX ,     XXXXXXX ,KC_BRID ,KC_BRIU ,XXXXXXX
+     XXXXXXX ,XXXXXXX ,XXXXXXX ,XXXXXXX ,     MS_BTN1 ,    MS_BTN2 ,KC_DEL  ,        _______ ,_______ ,    XXXXXXX ,     XXXXXXX ,KC_BRID ,KC_BRIU ,XXXXXXX
   //└────────┴────────┴────────┴────────┘    └────────┘   └────────┴────────┘       └────────┴────────┘   └────────┘    └────────┴────────┴────────┴────────┘
   ),
 
